@@ -15,3 +15,5 @@ oauth2client
 pprintpp
 python-dotenv
 pymupdf
+streamlit==1.53.0
+pymupdf
